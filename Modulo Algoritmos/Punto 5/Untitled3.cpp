@@ -1,7 +1,8 @@
+//El punto D no lo resuelvo porque no está explicado, pues es igual al C
 #include <iostream>
 #include <string>
 
-int nMax, nMin, nSum, num;
+int nMax=0, nMin=0, nSum=0, num=0;
 
 int main()
 {
